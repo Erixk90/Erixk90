@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi there, I'm **Erick José Leones Reyes**, a **Web developer FullStack** and a **Industrial Engineer** 🚀 from Barranquilla, Colombia.  Currently, I'm a Digital House Student 🙍🏽‍♂️. 
+Hi there, I'm **Erick José Leones Reyes**, a **Web developer FullStack** and an **Industrial Engineer** 🚀 from Barranquilla, Colombia.  Currently, I'm a Digital House Student 🙍🏽‍♂️. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -23,7 +23,7 @@ Hi there, I'm **Erick José Leones Reyes**, a **Web developer FullStack** and a 
 - 👨🏽‍💻 I’m in love with the Start ups I like the things I do, and I have 3 years of experience as an Industrial Engineer;;
 - 🌱 I’m a natural volunteer, I like to help people to raise in their Professional lives; 
 - 🤔 I'm an Advanced level Excel user and I love programming, Project Managing, and learning about Blockchain;
-- 💼 I know some of the agile methodologies as DESIGN THINKING, PMBOK®, PRINCE2®, LEAN STARTUP, SCRUM®.;
+- 💼 I know some of the agile methodologies such as DESIGN THINKING, PMBOK®, PRINCE2®, LEAN STARTUP, SCRUM®.;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via erickleonesreyes@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](https://www.linkedin.com/in/erickjoseleonesreyes1/) to get more info.
