@@ -42,6 +42,11 @@ Hi there, I'm **Erick José Leones Reyes**, a **Web developer FullStack** and a 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+ ---
+### 🔭 I’m currently working on ...
+
+You can find our bootcamp project [here](https://github.com/mariecp27/grupo_8_ComicVSManga)
+
 ![Erick's github stats](https://github-readme-stats.vercel.app/api?username=Erixk90&show_icons=true&hide_border=true)
 
 ⭐️ From [Erixk90](https://github.com/Erixk90)
