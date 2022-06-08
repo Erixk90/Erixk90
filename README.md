@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi there, I'm **Erick José Leones Reyes**, a **Web developer FullStack** **Industrial Engineer** 🚀 from Barranquilla, Colombia.  Currently, I'm a Digital House Student 🙍🏽‍♂️. 
+Hi there, I'm **Erick José Leones Reyes**, a **Web developer FullStack** And a **Industrial Engineer** 🚀 from Barranquilla, Colombia.  Currently, I'm a Digital House Student 🙍🏽‍♂️. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
