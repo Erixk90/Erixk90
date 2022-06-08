@@ -44,11 +44,11 @@ Hi there, I'm **Erick José Leones Reyes**, a **Web developer FullStack** and an
 
  ---
 ### 🔭 I’m currently working on ...
-
+https://user-images.githubusercontent.com/97996196/172546438-1b1242f8-89f4-4fbb-b5c7-1cddaf3a3bfe.mp4
 
 
 You can find our bootcamp project [here](https://github.com/mariecp27/grupo_8_ComicVSManga) 
-https://user-images.githubusercontent.com/97996196/172546438-1b1242f8-89f4-4fbb-b5c7-1cddaf3a3bfe.mp4
+
 
 ![Erick's github stats](https://github-readme-stats.vercel.app/api?username=Erixk90&show_icons=true&hide_border=true)
 
