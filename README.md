@@ -33,6 +33,7 @@ Hi there, I'm **Erick José Leones Reyes**, a **Web developer FullStack** and a 
 
 
 <code><img height="20" src="https://user-images.githubusercontent.com/97996196/172537308-be481138-f9cb-4be0-bdd4-cff5a2cd1b05.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/97996196/172537607-603a89ca-7355-4d12-9175-3000e92bf4c7.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
