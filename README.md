@@ -41,6 +41,7 @@ Hi there, I'm **Erick José Leones Reyes**, a **Web developer FullStack** and an
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://github.com/Erixk90/Erixk90/assets/97996196/cfcde23a-ada7-4acd-8385-80ad3b20be51"></code>
+<code><img height="20" src="https://github.com/Erixk90/Erixk90/assets/97996196/f93eac64-be7d-4196-a6a6-b0cda2634ead"></code>
 
  ---
 ### 🔭 I’m currently working on ...
