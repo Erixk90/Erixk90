@@ -45,10 +45,11 @@ Hi there, I'm **Erick José Leones Reyes**, a **Web developer FullStack** and an
 
  ---
 ### 🔭 I’m currently working on ...
-<code><video heigth="150" width="90" src="https://user-images.githubusercontent.com/97996196/172547246-df429c43-8913-416f-b33b-ae34290b446b.mp4"></code>
+<code><img width="1728" alt="OFFCORSS.US" src="https://github.com/Erixk90/Erixk90/assets/97996196/ed3189ef-7e41-44e6-9ea8-ac716f19c73c"></code>
 
+You can see the app-website [here](https://www.offcorss.us/)
 
-You can find our bootcamp project [here](https://github.com/mariecp27/grupo_8_ComicVSManga) 
+You can find the bootcamp project [here](https://github.com/mariecp27/grupo_8_ComicVSManga) 
 
 
 ![Erick's github stats](https://github-readme-stats.vercel.app/api?username=Erixk90&show_icons=true&hide_border=true)
