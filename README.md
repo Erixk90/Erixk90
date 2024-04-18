@@ -14,7 +14,7 @@
 <br />
 <br />
 
-Hi there, I'm **Erick José Leones Reyes**, a **Web developer FullStack** and an **Industrial Engineer** 🚀 from Barranquilla, Colombia.  I'm a Web Developer at OFFCORSS 🙍🏽‍♂️. 
+Hi there, I'm **Erick José Leones Reyes**, a **Web developer FullStack** and an **Industrial Engineer** 🚀 from Barranquilla, Colombia.  I'm a Web Developer 🙍🏽‍♂️. 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
