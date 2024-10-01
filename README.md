@@ -26,7 +26,7 @@ Hi there, I'm **Erick José Leones Reyes**, a **Web developer FullStack** and an
 - 💼 I know some of the agile methodologies such as DESIGN THINKING, PMBOK®, PRINCE2®, LEAN STARTUP, SCRUM®.;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via erickleonesreyes@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://www.linkedin.com/in/erickjoseleonesreyes1/) to get more info.
+- 📝 See my [Curriculum Vitae](https://www.linkedin.com/in/erick-j-l-dev/) to get more info.
 
 
 **Languages and Tools:**  
